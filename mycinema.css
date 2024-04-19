@@ -1,0 +1,17 @@
+*{
+    padding: 0;
+    margin: 0;
+    text-decoration: none;
+
+}
+.button{
+   padding-left: 15%;
+
+
+}
+.titre{
+    padding-top: 5%;
+}
+body{
+    background-image: url("mur-texture-beton-gris-solide.jpg");
+}
